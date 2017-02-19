@@ -1,3 +1,3 @@
 # RxJavaBook
 
-Reactive Programing with RxJava
+The Book Reactive Programing with RxJava(Chinese edition)
